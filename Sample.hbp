@@ -1,0 +1,9 @@
+-oSample
+
+-L.\hbPy
+-L\Python27/libs
+
+-lhbpy
+-lpython27
+
+Sample.prg

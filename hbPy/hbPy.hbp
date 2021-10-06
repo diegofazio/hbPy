@@ -1,0 +1,9 @@
+-hblib
+-W0 
+-mt
+-fullstatic
+
+-I/Python27/include
+-L/Python27/libs
+
+hbPy.c
